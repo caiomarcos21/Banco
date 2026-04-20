@@ -40,3 +40,19 @@ O sistema permite:
   - Atributos importantes são privados (por exemplo, __saldo, __numero, __cliente, __historico)  
     e acessados por métodos como get_saldo() e get_numero().
 
+Como Executar
+
+1. Certifique-se de ter o **Python 3** instalado.
+2. Clone ou baixe este repositório.
+3. No terminal, navegue até a pasta raiz do projeto (onde está `main.py`).
+4. Execute:
+
+```bash
+python main.py
+```
+
+ou
+
+```bash
+py main.py
+```
